@@ -1,0 +1,8 @@
+C:\Users\Odin\Source\Repos\DragAndDrop\Test_V2\bin\Debug\Test_V2.exe.config
+C:\Users\Odin\Source\Repos\DragAndDrop\Test_V2\bin\Debug\Test_V2.exe
+C:\Users\Odin\Source\Repos\DragAndDrop\Test_V2\bin\Debug\Test_V2.pdb
+C:\Users\Odin\Source\Repos\DragAndDrop\Test_V2\obj\Debug\Test_V2.TestForm.resources
+C:\Users\Odin\Source\Repos\DragAndDrop\Test_V2\obj\Debug\Test_V2.Properties.Resources.resources
+C:\Users\Odin\Source\Repos\DragAndDrop\Test_V2\obj\Debug\DragDropTest.csproj.GenerateResource.Cache
+C:\Users\Odin\Source\Repos\DragAndDrop\Test_V2\obj\Debug\Test_V2.exe
+C:\Users\Odin\Source\Repos\DragAndDrop\Test_V2\obj\Debug\Test_V2.pdb
